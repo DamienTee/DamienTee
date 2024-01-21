@@ -1,8 +1,8 @@
 # Hi there 👋, my name is Tee Soon Kiet.
 ### Studying Computer Science in Computer & Networks Security
-* Based in Malaysia
-* Contact me at skdmaien11@gmail.com
-* I'm up for challenges and expreinces
+* Based in Malaysia.
+* Contact me at skdmaien11@gmail.com.
+* I'm up for challenges and expreinces.
 ## ⚡ Skills
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ## 😎 Socials
