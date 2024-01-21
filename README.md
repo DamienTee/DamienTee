@@ -5,7 +5,7 @@
 * I'm up for challenges and expreinces
 ## ⚡ Skills
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-## Socials
+## 😎 Socials
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 #
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DamienTee&count_private=true&show_icons=true&include_all_commits=true)
