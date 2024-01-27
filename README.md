@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Tee Soon Kiet.
-### Studying Computer Science in Computer & Networks Security
+### Studying Computer Science in Computer & Networks Security at UTM
 * Based in Malaysia.
 * Contact me at skdamien11@gmail.com.
 * I'm up for challenges and expreinces.
